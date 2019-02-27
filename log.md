@@ -8,4 +8,4 @@
 ## 27-02-2019
 
 - Completed section 3 about Node Package Manager.
-- Created notes about the section.
+- Created a [note](notes/node-package-manager.md) about the NPM section.
