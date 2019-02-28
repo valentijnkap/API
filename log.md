@@ -9,3 +9,8 @@
 
 - Completed section 3 about Node Package Manager.
 - Created a [note](notes/node-package-manager.md) about the NPM section.
+
+## 28-02-2019
+
+- Completed section 4 about Express.js.
+- Created a [note](notes/express-notes.md) about express and validations.
