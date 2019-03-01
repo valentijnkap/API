@@ -14,3 +14,9 @@
 
 - Completed section 4 about Express.js.
 - Created a [note](notes/express-notes.md) about express and validations.
+
+## 01-03-2019
+
+- Completed section 5 about advanced topics of Express.js
+- Created a [note](notes/express-advanced-topics.md) about the advanced topics.
+- started section 6 about Asynchronous Javascript.
