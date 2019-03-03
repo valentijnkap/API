@@ -20,3 +20,8 @@
 - Completed section 5 about advanced topics of Express.js
 - Created a [note](notes/express-advanced-topics.md) about the advanced topics.
 - started section 6 about Asynchronous Javascript.
+
+## 03-03-2019
+
+- Completed section 6.
+- Dit some exercises about asynchronous functions.
