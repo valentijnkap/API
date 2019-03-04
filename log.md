@@ -25,3 +25,8 @@
 
 - Completed section 6.
 - Dit some exercises about asynchronous functions.
+
+## 04-03-2019
+
+- Completed section 7 about MongoDB and Mongoose
+- Wrote some [notes](notes/working-with-mongodb.md) a long the way.
