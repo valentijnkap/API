@@ -30,3 +30,8 @@
 
 - Completed section 7 about MongoDB and Mongoose
 - Wrote some [notes](notes/working-with-mongodb.md) a long the way.
+
+## 05-03-2019
+
+- Completed section 8 about validation
+- Wrote some [notes](notes/data-validation.md).
